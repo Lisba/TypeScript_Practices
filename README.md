@@ -1,3 +1,3 @@
-# Practicas_TypeScript
+# Practices_TypeScript
 
-Espacio para prácticas personales con typescript y prácticas provenientes del curso de Platzi.
+Space for personal practicing with typescript & practices from the Platzi course.
